@@ -6,6 +6,7 @@ numpy
 uvicorn[standard]
 seaborn
 scikit-learn
+hypercorn
 bleak
 langchain 
 langchain-community
@@ -13,3 +14,4 @@ langchain-core
 langchain-openai
 openai
 pydantic-settings
+
