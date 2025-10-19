@@ -10,3 +10,5 @@ class PossibleCauses(BaseModel):
     urgency_level: str
     possible_conditions: List[str]
     recommended_department: str
+    summary: str
+    confidence_score: float
